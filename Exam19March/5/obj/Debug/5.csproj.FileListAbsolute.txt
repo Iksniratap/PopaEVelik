@@ -1,0 +1,7 @@
+c:\users\patar\onedrive\documents\visual studio 2015\Projects\Exam19March\5\bin\Debug\5.exe.config
+C:\Users\patar\Desktop\Exam19March\5\bin\Debug\5.exe.config
+C:\Users\patar\Desktop\Exam19March\5\bin\Debug\5.exe
+C:\Users\patar\Desktop\Exam19March\5\bin\Debug\5.pdb
+C:\Users\patar\Desktop\Exam19March\5\obj\Debug\5.csprojResolveAssemblyReference.cache
+C:\Users\patar\Desktop\Exam19March\5\obj\Debug\5.exe
+C:\Users\patar\Desktop\Exam19March\5\obj\Debug\5.pdb
